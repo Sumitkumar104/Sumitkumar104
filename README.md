@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width= "400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitkumar104&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkumar104" /> </p>
 
-- 👨‍💻Hi Everyone I am Sumit kumar final year Student in NIT Kurukshetra and I have 6 months of experience as a full Stack Developer intern. I have great knowledge of backend development and devops part.
+- 👨‍💻Hi Everyone I am Sumit kumar final year Student in NIT Kurukshetra with a 6 months of experience as a full Stack Developer intern in early stage StartUp. Proficiency in system design with data structures and algorithms, CI/CD, AWS, GCP, React framework, Node.js, Redis, WebSockets, Firebase, MongoDB and MySQL DataBase.
     
 - 📫 How to reach me **sumitofficial829@gmail.com**
 
